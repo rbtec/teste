@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo"Primeiro projeto GIT em equipe!";
+        echo"GIT em Equipe!";
         ?>
     </body>
 </html>
