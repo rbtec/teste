@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo"Commit Teste!";
+        echo"Commit Alterado!";
         ?>
     </body>
 </html>
